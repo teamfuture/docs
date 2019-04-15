@@ -15,5 +15,10 @@ Why asking ? It's a great part (the greatest). "Just" improve interactions using
 
 Eof
 ==
-For people who use horizontal inheritance and object databases, it's a need.
+For people who use horizontal inheritance and object databases, it's a need. 
+But we should/could also help Cayenne to deal with it.
+
+
+Qualifiers
+==
 What about EOQualifiers and filters that help us to deal with objects without thinking about if we are speaking about methods or properties
